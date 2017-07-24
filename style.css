@@ -1,0 +1,75 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  background: #80dfff;
+}
+
+#search {
+  margin-bottom: 20px;
+  width: 300px;
+  height: 30px;
+}
+
+button {
+  background-color: grey;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2px 2px;
+  cursor: pointer;
+}
+
+.SFR {
+  margin: 40px;
+  border-bottom: 1px solid black;
+}
+
+.container {
+  margin: auto;
+  width: 80%;
+  margin-bottom: 10px;
+}
+
+.container1 {
+  display: flex;
+  flex-flow: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+h1 {
+  font-size: 75px;
+  text-align: center;
+}
+
+article {
+  width: 3%;
+  min-width: 200px;
+  border-radius: 5px;
+  background-color: grey;
+}
+
+h3 {
+  color: white;
+  text-align: center;
+  font-size: 80%;
+  max-width: 200px;
+  max-height: 100px;
+}
+
+a {
+  text-decoration: none;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
